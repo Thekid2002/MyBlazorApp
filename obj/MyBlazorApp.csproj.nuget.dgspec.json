@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\coolf\\MyBlazorApp\\MyBlazorApp.csproj": {}
+    "/Users/thomas/Documents/MyBlazorApp/MyBlazorApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\coolf\\MyBlazorApp\\MyBlazorApp.csproj": {
+    "/Users/thomas/Documents/MyBlazorApp/MyBlazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\coolf\\MyBlazorApp\\MyBlazorApp.csproj",
+        "projectUniqueName": "/Users/thomas/Documents/MyBlazorApp/MyBlazorApp.csproj",
         "projectName": "MyBlazorApp",
-        "projectPath": "C:\\Users\\coolf\\MyBlazorApp\\MyBlazorApp.csproj",
-        "packagesPath": "C:\\Users\\coolf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\coolf\\MyBlazorApp\\obj\\",
+        "projectPath": "/Users/thomas/Documents/MyBlazorApp/MyBlazorApp.csproj",
+        "packagesPath": "/Users/thomas/.nuget/packages/",
+        "outputPath": "/Users/thomas/Documents/MyBlazorApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\coolf\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/thomas/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,13 +59,13 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.4, )",
+              "version": "[8.0.3, )",
               "autoReferenced": true
             },
             "Microsoft.NET.Sdk.WebAssembly.Pack": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.6, )",
+              "version": "[8.0.3, )",
               "autoReferenced": true
             }
           },
@@ -82,12 +80,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[8.0.3, 8.0.3]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

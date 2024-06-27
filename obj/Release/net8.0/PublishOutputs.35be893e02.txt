@@ -1,0 +1,4 @@
+/Users/thomas/Documents/MyBlazorApp/publish/GasLanguageProcessor/bin/Debug/net8.0/GASLanguageProcessor.deps.json
+/Users/thomas/Documents/MyBlazorApp/publish/GasLanguageProcessor/bin/Debug/net8.0/GASLanguageProcessor.runtimeconfig.json
+/Users/thomas/Documents/MyBlazorApp/publish/sample-data/weather.json
+/Users/thomas/Documents/MyBlazorApp/publish/web.config
