@@ -1,0 +1,63 @@
+<svg width="1800" height="750" style="background-color: rgb(255, 255, 255)" xmlns="http://www.w3.org/2000/svg">
+<linearGradient id="color" x1="0%" y1="0%" x2="70,71067811865476%" y2="70,71067811865474%">
+<stop offset="0%" stop-color="rgb(0, 0, 255)" />
+<stop offset="100%" stop-color="rgb(255, 0, 0)" />
+</linearGradient>
+<linearGradient id="strokeColor" x1="0%" y1="0%" x2="70,71067811865476%" y2="70,71067811865474%">
+<stop offset="0%" stop-color="rgb(0, 0, 0)" />
+<stop offset="100%" stop-color="rgb(255, 255, 255)" />
+</linearGradient>
+<circle id="" cx="100" cy="200" r="50" fill="url(#color)" fill-opacity="1" stroke="url(#strokeColor)" stroke-width="2" />
+<linearGradient id="color" x1="0%" y1="0%" x2="70,71067811865476%" y2="70,71067811865474%">
+<stop offset="0%" stop-color="rgb(0, 255, 0)" />
+<stop offset="1%" stop-color="rgb(0, 0, 255)" />
+</linearGradient>
+<linearGradient id="strokeColor" x1="0%" y1="0%" x2="70,71067811865476%" y2="70,71067811865474%">
+<stop offset="0%" stop-color="rgb(0, 0, 0)" />
+<stop offset="1%" stop-color="rgb(255, 255, 255)" />
+</linearGradient>
+<rect id="" x="200" y="200" width="100" height="400" fill="url(#color)" fill-opacity="1" rx="10" stroke="url(#strokeColor)" stroke-width="2" />
+<linearGradient id="color" x1="0%" y1="0%" x2="70,71067811865476%" y2="70,71067811865474%">
+<stop offset="0%" stop-color="rgb(255, 255, 0)" />
+<stop offset="1%" stop-color="rgb(0, 255, 255)" />
+</linearGradient>
+<linearGradient id="strokeColor" x1="0%" y1="0%" x2="70,71067811865476%" y2="70,71067811865474%">
+<stop offset="0%" stop-color="rgb(0, 0, 0)" />
+<stop offset="1%" stop-color="rgb(255, 255, 255)" />
+</linearGradient>
+<ellipse id="" cx="400" cy="200" rx="50" ry="100" fill="url(#color)" stroke="url(#strokeColor)" stroke-width="1" />
+<linearGradient id="color" x1="0%" y1="0%" x2="70,71067811865476%" y2="70,71067811865474%">
+<stop offset="0%" stop-color="rgb(0, 255, 255)" />
+<stop offset="1%" stop-color="rgb(255, 0, 255)" />
+</linearGradient>
+<linearGradient id="strokeColor" x1="0%" y1="0%" x2="70,71067811865476%" y2="70,71067811865474%">
+<stop offset="0%" stop-color="rgb(0, 0, 0)" />
+<stop offset="1%" stop-color="rgb(255, 255, 255)" />
+</linearGradient>
+<polygon id="" points="500,400 500,200 600,200 " fill="url(#color)" fill-opacity="1" stroke="url(#strokeColor)" stroke-width="1" />
+<linearGradient id="color" x1="0%" y1="0%" x2="70,71067811865476%" y2="70,71067811865474%">
+<stop offset="0%" stop-color="rgb(255, 0, 255)" />
+<stop offset="1%" stop-color="rgb(255, 255, 0)" />
+</linearGradient>
+<linearGradient id="strokeColor" x1="0%" y1="0%" x2="70,71067811865476%" y2="70,71067811865474%">
+<stop offset="0%" stop-color="rgb(0, 0, 0)" />
+<stop offset="1%" stop-color="rgb(255, 255, 255)" />
+</linearGradient>
+<polygon id="" points="650,200 750,300 800,200 800,150 700,150 " fill="url(#color)" fill-opacity="1" stroke="url(#strokeColor)" stroke-width="2" />
+<linearGradient id="color" x1="0%" y1="0%" x2="70,71067811865476%" y2="70,71067811865474%">
+<stop offset="0%" stop-color="rgb(255, 255, 255)" />
+<stop offset="1%" stop-color="rgb(0, 0, 0)" />
+</linearGradient>
+<line id="" x1="900" y1="200" x2="1000" y2="400" stroke="url(#color)" stroke-width="20" />
+<linearGradient id="color" x1="0%" y1="0%" x2="70,71067811865476%" y2="70,71067811865474%">
+<stop offset="0%" stop-color="rgb(255, 255, 255)" />
+<stop offset="1%" stop-color="rgb(0, 0, 0)" />
+</linearGradient>
+<line id="" x1="1100" y1="200" x2="1200" y2="300" stroke="url(#color)" stroke-width="30" />
+<polygon id="" points="1157.5735,300 1200,257.5736 1200,300 " fill="url(#color)" fill-opacity="1" stroke="url(#color)" stroke-width="30" />
+<linearGradient id="color" x1="0%" y1="0%" x2="70,71067811865476%" y2="70,71067811865474%">
+<stop offset="0%" stop-color="rgb(255, 255, 255)" />
+<stop offset="1%" stop-color="rgb(0, 0, 0)" />
+</linearGradient>
+<text id="" x="1400" y="250" xml:space="preserve" fill="url(#color)" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-weight="400" font-size="40">Hello, World!</text>
+</svg>
