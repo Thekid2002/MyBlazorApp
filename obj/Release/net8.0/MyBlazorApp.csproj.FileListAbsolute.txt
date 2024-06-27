@@ -1037,3 +1037,4 @@ C:\Users\coolf\MyBlazorApp\obj\Release\net8.0\MyBlazorApp.dll
 C:\Users\coolf\MyBlazorApp\obj\Release\net8.0\refint\MyBlazorApp.dll
 C:\Users\coolf\MyBlazorApp\obj\Release\net8.0\MyBlazorApp.pdb
 C:\Users\coolf\MyBlazorApp\obj\Release\net8.0\ref\MyBlazorApp.dll
+C:\Users\coolf\MyBlazorApp\bin\Release\net8.0\sample-data\weather.json

@@ -1,0 +1,4 @@
+C:\Users\coolf\MyBlazorApp\obj\Release\net8.0\browser-wasm\PubTmp\Out\GasLanguageProcessor\bin\Debug\net8.0\GASLanguageProcessor.deps.json
+C:\Users\coolf\MyBlazorApp\obj\Release\net8.0\browser-wasm\PubTmp\Out\GasLanguageProcessor\bin\Debug\net8.0\GASLanguageProcessor.runtimeconfig.json
+C:\Users\coolf\MyBlazorApp\obj\Release\net8.0\browser-wasm\PubTmp\Out\sample-data\weather.json
+C:\Users\coolf\MyBlazorApp\obj\Release\net8.0\browser-wasm\PubTmp\Out\web.config
