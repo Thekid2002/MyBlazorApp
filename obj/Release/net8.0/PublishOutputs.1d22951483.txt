@@ -1,0 +1,3 @@
+C:\Users\coolf\MyBlazorApp\bin\Release\net8.0\publish\GasLanguageProcessor\bin\Debug\net8.0\GASLanguageProcessor.deps.json
+C:\Users\coolf\MyBlazorApp\bin\Release\net8.0\publish\GasLanguageProcessor\bin\Debug\net8.0\GASLanguageProcessor.runtimeconfig.json
+C:\Users\coolf\MyBlazorApp\bin\Release\net8.0\publish\web.config
