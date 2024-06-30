@@ -1,59 +1,59 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\coolf\\MyBlazorApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
-      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+      "Id": "/Users/thomas/Documents/MyBlazorApp/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\coolf\\MyBlazorApp\\obj\\Debug\\net8.0\\compressed\\4yhardt77f.gz",
-      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+      "Id": "/Users/thomas/Documents/MyBlazorApp/obj/Debug/net8.0/compressed/ypu5h8zko4.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
     },
     {
-      "Id": "C:\\Users\\coolf\\MyBlazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MyBlazorApp.styles.css",
-      "PackagePath": "staticwebassets\\MyBlazorApp.styles.css"
+      "Id": "/Users/thomas/Documents/MyBlazorApp/obj/Debug/net8.0/scopedcss/bundle/MyBlazorApp.styles.css",
+      "PackagePath": "staticwebassets/MyBlazorApp.styles.css"
     },
     {
-      "Id": "C:\\Users\\coolf\\MyBlazorApp\\wwwroot\\css\\app.css",
-      "PackagePath": "staticwebassets\\css\\app.css"
+      "Id": "/Users/thomas/Documents/MyBlazorApp/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
     },
     {
-      "Id": "C:\\Users\\coolf\\MyBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+      "Id": "/Users/thomas/Documents/MyBlazorApp/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\coolf\\MyBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+      "Id": "/Users/thomas/Documents/MyBlazorApp/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\coolf\\MyBlazorApp\\wwwroot\\favicon.png",
-      "PackagePath": "staticwebassets\\favicon.png"
+      "Id": "/Users/thomas/Documents/MyBlazorApp/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
     },
     {
-      "Id": "C:\\Users\\coolf\\MyBlazorApp\\wwwroot\\icon-192.png",
-      "PackagePath": "staticwebassets\\icon-192.png"
+      "Id": "/Users/thomas/Documents/MyBlazorApp/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
     },
     {
-      "Id": "C:\\Users\\coolf\\MyBlazorApp\\wwwroot\\index.html",
-      "PackagePath": "staticwebassets\\index.html"
+      "Id": "/Users/thomas/Documents/MyBlazorApp/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
     },
     {
-      "Id": "C:\\Users\\coolf\\MyBlazorApp\\wwwroot\\sample-data\\weather.json",
-      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+      "Id": "/Users/thomas/Documents/MyBlazorApp/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyBlazorApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.MyBlazorApp.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MyBlazorApp.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.MyBlazorApp.props",
       "PackagePath": "build\\MyBlazorApp.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MyBlazorApp.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MyBlazorApp.props",
       "PackagePath": "buildMultiTargeting\\MyBlazorApp.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MyBlazorApp.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MyBlazorApp.props",
       "PackagePath": "buildTransitive\\MyBlazorApp.props"
     }
   ],

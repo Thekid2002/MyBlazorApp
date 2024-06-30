@@ -16,4 +16,9 @@
     <Folder Include="GasLanguageProcessor\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="GasLanguageProcessor\bin\Debug\net8.0\GASLanguageProcessor.deps.json" />
+    <_ContentIncludedByDefault Remove="GasLanguageProcessor\bin\Debug\net8.0\GASLanguageProcessor.runtimeconfig.json" />
+  </ItemGroup>
+
 </Project>
